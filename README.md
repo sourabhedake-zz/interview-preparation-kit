@@ -1,6 +1,8 @@
 # Interview Preparation Kit
  Interview preparation kit is a project developed for collaboratively solving interview oriented problem statements using approriate data structure and algorithms.
  
+ This project solve problems listed on [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
+ 
  ## Getting Started
  This project divides problems according to their nature of solution. For example - Arrays, Sorting, etc
  This help will developers to find and focus on any specific type of algorithm.
